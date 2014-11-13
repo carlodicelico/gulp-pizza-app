@@ -1,0 +1,9 @@
+{
+    "minify": false,
+    "strict": false,
+    "breakOnError": true,
+    "server": {
+        "url": "localhost",
+        "port": "8000"
+    }
+}
