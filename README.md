@@ -10,3 +10,4 @@ Demo gulp setup with:
 + js minification
 + configurable environment settings
 
+To get started, clone this repo and run `gulp`. Then, browse to [http://localhost:8000](http://localhost:8000)
